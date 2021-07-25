@@ -1,7 +1,6 @@
 import { 
     Container, 
-    ProductName, 
-    Description,
+    ProductName,
     ProductImage, 
     Price,
     BuyButton,
