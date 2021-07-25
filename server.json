@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "imageUrl": "https://i.imgur.com/lyRlFLt.png",
+            "Title": "CyPhy Works Quadcopter Delivery",
+            "Price": 1999.00
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://i.imgur.com/kCGZPOZ.png",
+            "Title": "DJI Mavic Air",
+            "Price": 999.00
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://i.imgur.com/VrntLXB.png",
+            "Title": "DJI Phantom 5",
+            "Price": 3199.00
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://i.imgur.com/LL01ynH.png",
+            "Title": "HD Splash Drone",
+            "Price": 2459.00
+        }
+    ]
+}
